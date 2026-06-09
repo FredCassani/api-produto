@@ -76,3 +76,8 @@ Este projeto utiliza o Spring Boot em conjunto com o PostgreSQL para persistênc
 
 ![image URL](https://github.com/FredCassani/api-produto/blob/main/Captura%20de%20tela%202026-06-09%20100101.png?raw=true)
 
+
+
+Realização de testes da API Usando Modo DEBUG,E após isso indo para o  POSTMAN criar os produtos.
+
+![image URL](https://github.com/FredCassani/api-produto/blob/main/controller.png?raw=true)
