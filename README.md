@@ -70,8 +70,9 @@ Boas Práticas de Desenvolvimento Backend
 
 
 
-Integração Spring Boot e PostgreSQL
 
+Integração Spring Boot e PostgreSQL
 Este projeto utiliza o Spring Boot em conjunto com o PostgreSQL para persistência dos dados. A conexão é realizada através do driver JDBC do PostgreSQL, configurado no arquivo application.properties. O banco de dados está hospedado localmente (localhost) na porta padrão 5432, utilizando o banco api-produto. O Hibernate, por meio do Spring Data JPA, é responsável pelo mapeamento objeto-relacional (ORM), permitindo que as entidades Java sejam convertidas automaticamente em tabelas no banco de dados. A propriedade spring.jpa.hibernate.ddl-auto=update foi utilizada para que a estrutura do banco seja criada e atualizada automaticamente conforme a evolução das entidades da aplicação.
+
 ![image URL](https://github.com/FredCassani/api-produto/blob/main/Captura%20de%20tela%202026-06-09%20100101.png?raw=true)
 
