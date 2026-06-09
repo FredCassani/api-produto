@@ -68,6 +68,5 @@ Arquitetura de Software
 Validação de Dados
 Boas Práticas de Desenvolvimento Backend
 
-![image URL](https://github.com/FredCassani/api-produto/blob/main/1779981653614.jpg?raw=true)
 
 
