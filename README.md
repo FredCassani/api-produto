@@ -17,24 +17,24 @@ O projeto demonstra o fluxo completo de uma API REST, desde o recebimento das re
 
 ![image URL](https://github.com/FredCassani/api-produto/blob/main/ChatGPT%20Image%209%20de%20jun.%20de%202026,%2009_32_50.png?raw=true)
 
-Tecnologias Utilizadas
-Spring Web
+TECNOLOGIAS UTILIZADAS
+SPRING WEB
 
 Responsável por expor os endpoints REST e gerenciar as requisições e respostas HTTP. Permite que clientes interajam com a aplicação por meio das operações REST padrão.
 
-Spring Data JPA
+SPRING DATA JPA
 
 Utilizado para simplificar o acesso ao banco de dados e as operações de persistência. Fornece abstrações de repositório que reduzem código repetitivo e aumentam a produtividade ao trabalhar com bancos de dados relacionais.
 
-PostgreSQL Driver
+POSTGRESQL DRIVER
 
 Permite a comunicação entre a aplicação e o banco de dados PostgreSQL através do JDBC.
 
-PostgreSQL
+POSTGRESQL
 
 Banco de dados relacional utilizado para armazenar e gerenciar os dados dos produtos de forma segura e eficiente.
 
-Validation
+VALIDATION
 
 Utilizado para validar os dados recebidos nas requisições, garantindo a integridade das informações e impedindo que dados inválidos sejam persistidos no banco de dados.
 
@@ -67,5 +67,7 @@ JPA e Hibernate
 Arquitetura de Software
 Validação de Dados
 Boas Práticas de Desenvolvimento Backend
+
+![image URL](https://github.com/FredCassani/api-produto/blob/main/1779981653614.jpg?raw=true)
 
 
